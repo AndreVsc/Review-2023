@@ -51,3 +51,23 @@ Este método é composto pelas seguintes palavras em sua sigla : *Sprint, Cycle,
 >* **[Alert] Kanban Board** : O SCRUM pode se beneficiar sua gestão vizual e trasparêntes com os integrantes, sendo possivel estabelecer o fluxo de tarefas para realizar, que estão em processo e concluidas no decorrer do trabalho.
 >* **Sprint Review** : Agora chegando ao final de uma dessa conferência o objetivo é validar e adaptar as tarefas feitas até o momento apresentando todas as alterações e progresso.
 >* **Retrospectiva** : Diferente da "Review" seguimos discutindo as necessidades do projeto e aprimoramento do processo eliminando tarefas desnecessárias ou integrando novas formas de aprimorar o desenpenho do desenvolvimento do produto.
+Os papéis são as funções pré-definidas para cada individou de uma equipe ultilizando está metodologia.### KANBAN
+>
+>***
+### KANBAN
+>
+Kanban se destaca pelo foco na compreensão visual clara do progresso do projeto. Nessa norma preza pela criação de listas determinadas popularmente como *"to do","doing"* e *"done"* respectivamente.
+>
+>**To do :**
+São as terefas que ainda serão realizadas.
+>
+>**Doing :**
+Estão no campo de desenvolvimento, logo ainda em trabalho de produção.
+>
+>**Done :**
+Ápos as demais , estão concluidas e poder ser consideradas como finalizadas.
+>
+>**Personalização de Status :**
+Novas listas com diferentes nomes podem ser adicionadas, tornando flexivel entender melhor sobre a realização de alguma tarefa. 
+>
+>***
