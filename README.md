@@ -51,7 +51,6 @@ Este método é composto pelas seguintes palavras em sua sigla : *Sprint, Cycle,
 >* **[Alert] Kanban Board** : O SCRUM pode se beneficiar sua gestão vizual e trasparêntes com os integrantes, sendo possivel estabelecer o fluxo de tarefas para realizar, que estão em processo e concluidas no decorrer do trabalho.
 >* **Sprint Review** : Agora chegando ao final de uma dessa conferência o objetivo é validar e adaptar as tarefas feitas até o momento apresentando todas as alterações e progresso.
 >* **Retrospectiva** : Diferente da "Review" seguimos discutindo as necessidades do projeto e aprimoramento do processo eliminando tarefas desnecessárias ou integrando novas formas de aprimorar o desenpenho do desenvolvimento do produto.
-Os papéis são as funções pré-definidas para cada individou de uma equipe ultilizando está metodologia.### KANBAN
 >
 >***
 ### KANBAN
@@ -70,4 +69,35 @@ Estão no campo de desenvolvimento, logo ainda em trabalho de produção.
 >**Personalização de Status :**
 Novas listas com diferentes nomes podem ser adicionadas, tornando flexivel entender melhor sobre a realização de alguma tarefa. 
 >
+>***
+### XP(Extreme Programming)
+>
+Esse sistema não inova em seus destaques, seus principais valores são *"Comunicação","Simplicidade","Feedback","Coragem"* e *"Respeito"*. Mas a maior diferença é que eleva o nivel de todas as praticas ao extremo, sendo maximizado ou o completo oposto disso. 
+>
+>**Práticas** :  As praticas são as formas mais corretas utilizadas pelos programadores em geral, buscando sempre o maior compreendimento do codigo o mantendo coeso.
+>* **Planning Game** : O desenvolvimento é feito entre interações semanais, onde é definidos os objetivos do projeto(escopo).
+São as terefas que ainda serão realizadas.
+>
+>* **Small Releases** : Liberação semanais de versões funcionais do software.
+>
+>* **Metaphor** : Procura facilitar a compreensão do cliente, buscando proximidade de ideias.
+>
+>* **Simple Desing** : Busca sempre uma abordagem limpa e de facil compreenção.
+>
+>* **Customer Tests** : Teste contruindos pelo clinte junto a analistas e testers.
+>
+>* **Sustainable Pace** : Tende a manter um rito saúdavel e constante para o desenvolvimento do projeto sem horas extras ou atrasos.
+>
+>* **Collective Ownership** : O código fonte não restrições de acessos a qualquer usuário.
+>
+>* **Pair Programming** : Trabalhar com uma segunda pessoa dividindo o mesmo computado.
+>
+>* **Coding Standards** : São regras estabelecidas para criar um padrão entre os códigos.
+>
+>* **Test Driven Development** : Criação de testes unitários e a codificação para que os testes funcionem.
+>
+>* **Refactoring** : Processo que permite a melhora continua da programação do software.
+>
+>* **Continuous Integration** : Sempre que produzida uma funcionalidade a integração com o projeto deve ser feita de forma continua sem grandes intervalos.
+>  
 >***
